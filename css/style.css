@@ -1,0 +1,45 @@
+/* inicio estilos generales */
+* {
+    background-color: #17153B;
+    font-family: monospace;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+span {
+    color: #38308c;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 27px;
+}
+
+/* fin estilos generales */
+
+/* incio header */
+
+header {
+    margin: 15px;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: end;
+    
+}
