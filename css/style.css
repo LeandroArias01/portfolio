@@ -104,6 +104,14 @@ h1 {
 }
 
 
+
+.icon-home {
+    color: black;
+}
+
+.btn:hover {
+    background-color: hsl(214, 100%, 50%);
+}
 /* about */
 
 .about {
@@ -127,7 +135,7 @@ h1 {
     padding: 20px;
     margin-bottom: 50px;
     margin-top: 50px;
-    margin-left: 550px;
+    margin-left: 574px;
     background-color: #fff;
     position: relative;
     max-width: 40%;
@@ -152,8 +160,3 @@ h1 {
 
 /* media queri */
 
-/* 586 navbar escondido */
-
-/* 768  */
-
-/* 1024 */
